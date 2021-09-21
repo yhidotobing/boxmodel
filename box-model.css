@@ -1,0 +1,16 @@
+p {
+  margin: 0;
+  background-color: #777777;
+  color: #f3f4f6;
+  font-size: 400;
+  font-family: sans-serif;
+}
+
+p:hover {
+  background-color: #b3b3b3;
+  color: black;
+}
+
+.siswa {
+  padding: 10px 15px 10px 15px;
+}
